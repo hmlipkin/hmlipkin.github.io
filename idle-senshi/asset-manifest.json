@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/idle-senshi/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/idle-senshi/static/js/main.834376b2.chunk.js",
+    "main.js.map": "/idle-senshi/static/js/main.834376b2.chunk.js.map",
+    "runtime-main.js": "/idle-senshi/static/js/runtime-main.36e29977.js",
+    "runtime-main.js.map": "/idle-senshi/static/js/runtime-main.36e29977.js.map",
+    "static/css/2.6736b30a.chunk.css": "/idle-senshi/static/css/2.6736b30a.chunk.css",
+    "static/js/2.2e4d7fa6.chunk.js": "/idle-senshi/static/js/2.2e4d7fa6.chunk.js",
+    "static/js/2.2e4d7fa6.chunk.js.map": "/idle-senshi/static/js/2.2e4d7fa6.chunk.js.map",
+    "index.html": "/idle-senshi/index.html",
+    "precache-manifest.821f2e0a560b9cd1c454e3700e3da877.js": "/idle-senshi/precache-manifest.821f2e0a560b9cd1c454e3700e3da877.js",
+    "service-worker.js": "/idle-senshi/service-worker.js",
+    "static/css/2.6736b30a.chunk.css.map": "/idle-senshi/static/css/2.6736b30a.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/idle-senshi/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2e4d7fa6.chunk.js.LICENSE": "/idle-senshi/static/js/2.2e4d7fa6.chunk.js.LICENSE",
+    "static/media/all.min.css": "/idle-senshi/static/media/fa-solid-900.f6121be5.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36e29977.js",
+    "static/css/2.6736b30a.chunk.css",
+    "static/js/2.2e4d7fa6.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.834376b2.chunk.js"
+  ]
+}
