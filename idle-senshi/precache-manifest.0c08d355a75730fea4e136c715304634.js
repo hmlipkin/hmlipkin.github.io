@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63d25c76d0582e7d1478d88280bfb7ac",
+    "revision": "c3c97a2a1fc5cb4de89363c15db2e3b9",
     "url": "/idle-senshi/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/idle-senshi/static/css/2.6736b30a.chunk.css"
   },
   {
-    "revision": "93935bb86f7e4e2fc75b",
+    "revision": "04c6be4ce802c5250560",
     "url": "/idle-senshi/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/idle-senshi/static/js/2.2e4d7fa6.chunk.js.LICENSE"
   },
   {
-    "revision": "93935bb86f7e4e2fc75b",
-    "url": "/idle-senshi/static/js/main.834376b2.chunk.js"
+    "revision": "04c6be4ce802c5250560",
+    "url": "/idle-senshi/static/js/main.0b5a5015.chunk.js"
   },
   {
     "revision": "01c6421a2b3a060393ba",

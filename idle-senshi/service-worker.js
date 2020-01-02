@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/idle-senshi/precache-manifest.821f2e0a560b9cd1c454e3700e3da877.js"
+  "/idle-senshi/precache-manifest.0c08d355a75730fea4e136c715304634.js"
 );
 
 self.addEventListener('message', (event) => {
